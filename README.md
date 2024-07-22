@@ -16,4 +16,5 @@ The script then checks your password for any dictionary words.
 
 ## Usage
 git clone https://github.com/ChaseRoohms/PasswordStrengthChecker.git PasswordStrengthChecker.git
-PasswordStrengthChecker/password_strength.py <password>
+
+python3 PasswordStrengthChecker/password_strength.py \<password\>
