@@ -15,6 +15,6 @@ The script then cross references your password against a list of the one million
 The script then checks your password for any dictionary words.
 
 ## Usage
-git clone https://github.com/ChaseRoohms/PasswordStrengthChecker.git PasswordStrengthChecker.git
+*Clone the repository, and then run the script using the following arguments*
 
-python3 PasswordStrengthChecker.git/password_strength.py \<password\>
+password_strength.py \<password\>
